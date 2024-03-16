@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table, th, td {
-  
-}
 
-</style>
 </head>
 <body>
     
