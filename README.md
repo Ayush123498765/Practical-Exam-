@@ -3,7 +3,7 @@
 <head>
 <style>
 table, th, td {
-  border: 1px solid rgb(248, 5, 5);
+  
 }
 
 </style>
